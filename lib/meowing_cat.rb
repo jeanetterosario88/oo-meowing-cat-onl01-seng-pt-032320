@@ -8,7 +8,7 @@ class Cat
     @thecatsname
   end
   
-  def bark
+  def meow
     puts "woof!"
   end
 
